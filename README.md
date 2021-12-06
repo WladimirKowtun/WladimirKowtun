@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @WladimirKowtun
 - 👀 I’m interested in conquer the world.
 - 🌱 I’m currently learning Java
-- 💞️ I’m looking to collaborate on my family dinner
+- 💞️ I’m looking to collaborate on my relatives dinner
 - 📫 How to reach me? I'll reach you.
 
 <!---
